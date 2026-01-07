@@ -1,0 +1,5 @@
+service;month;budget;real;type
+Marketing;2023-01;12000;11000;Variable
+IT;2023-01;45000;52000;Fixe
+HR;2023-01;22000;21500;Fixe
+Sales;2023-01;32000;30000;Variable
