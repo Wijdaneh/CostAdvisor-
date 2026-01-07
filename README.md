@@ -65,4 +65,4 @@ L'application sera accessible sur `http://localhost:5173`.
 3.  Consultez le tableau de bord et utilisez le chat pour interroger vos données.
 
 ## Auteur
-Projet développé avec l'assistance d'Antigravity.
+Projet développé par **Wijdane Hachani** avec l'assistance d'Antigravity.
