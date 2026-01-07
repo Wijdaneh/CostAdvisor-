@@ -12,6 +12,13 @@ CostAdvisor est un assistant intelligent de contrôle de gestion conçu pour ren
 -   **Assistant IA** : Chatbot intégré pour poser des questions sur les données (ex: "Quel service dépense le plus ?").
 -   **Analyse Automatique** : Détection des "Top Offenders" et explications structurées (Cause, Impact, Recommandation).
 
+## Aperçu de l'application
+
+<p align="center">
+  <img src="screenshots/home-demo.png" width="48%" alt="Interface d'accueil CostAdvisor" style="border-radius: 10px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+  <img src="screenshots/dashboard-demo.png" width="48%" alt="Tableau de bord et Chat IA" style="border-radius: 10px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+</p>
+
 ## Architecture
 
 Le projet est divisé en deux parties :
